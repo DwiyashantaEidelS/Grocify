@@ -1,5 +1,5 @@
 # Grocify
-Grocify is a landing page designed using Tailwind CSS, focusing on responsive design and a modern look. 
+Grocify is a landing page designed using basic Tailwind CSS. 
 
 ---
 You can access the landing page directly at [Grocify](https://dwiyahantaeidels.github.io/Grocify/).
